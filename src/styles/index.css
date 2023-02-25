@@ -10,3 +10,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+span.badge {
+    margin-right: 5px;
+    padding: 0.3rem 0.5rem;
+    font-size: 80px;
+  }
